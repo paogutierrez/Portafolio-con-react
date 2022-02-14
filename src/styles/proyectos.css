@@ -1,0 +1,10 @@
+.letras{
+    color: white;
+    text-align: center;
+}
+.imagen{
+    width: 50%;
+    margin-left: 25%;
+    padding:30px;
+    font-family:'Montserrat', sans-serif;
+}
